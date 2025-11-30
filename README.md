@@ -101,17 +101,17 @@ If using the Mock Service or after fresh Backend Seeding:
 ## 📸 Screenshots
 
 ### 1. Landing Page
-*Role selection for Employees and Managers.*
-![Landing Page](./screenshots/landing.png)
+<img width="925" height="612" alt="image" src="https://github.com/user-attachments/assets/884e881f-00a9-4d81-bd07-ff10cf9aae5c" />
+
 
 ### 2. Employee Dashboard
-*Real-time clock and attendance stats.*
-![Employee Dashboard](./screenshots/employee_dashboard.png)
+<img width="1629" height="768" alt="image" src="https://github.com/user-attachments/assets/5212639e-4e33-4dbc-8a99-fb238b7baf68" />
+
+
 
 ### 3. Manager Dashboard
-*Overview of total employees and attendance charts.*
-![Manager Dashboard](./screenshots/manager_dashboard.png)
+<img width="1604" height="769" alt="image" src="https://github.com/user-attachments/assets/4cf2a03e-2144-42d8-84dd-6126deef0e36" />
 
 ### 4. Reports
-*Detailed table with date range filters.*
-![Reports](./screenshots/reports.png)
+<img width="1627" height="769" alt="image" src="https://github.com/user-attachments/assets/8356227a-cafe-40d3-a840-201fdaea6f79" />
+
