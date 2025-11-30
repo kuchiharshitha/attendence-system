@@ -3,9 +3,9 @@
 A comprehensive Employee Attendance System built with the MERN stack (MongoDB, Express, React, Node.js), featuring role-based dashboards, attendance tracking, and reporting.
 
 ## student details
-Name:K Harhitha
-College Name: Srinivasa ramanujan institute of technology
-Phone no:9908600155
+* Name:K Harshitha
+* College Name: Srinivasa ramanujan institute of technology
+* Phone no:9908600155
 
 ## 📋 Table of Contents
 1. [Tech Stack](#tech-stack)
