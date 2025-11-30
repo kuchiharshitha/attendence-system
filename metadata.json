@@ -1,0 +1,8 @@
+{
+  "name": "Copy of AttendancePro",
+  "description": "A comprehensive Employee Attendance System with role-based access for Employees and Managers, featuring dashboards, reporting, and calendar views.",
+  "dependencies": {
+    "zustand": "^4.5.0"
+  },
+  "requestFramePermissions": []
+}
