@@ -89,6 +89,11 @@ To use the full functionality with MongoDB:
 
 ---
 
+
+🎬 **Demo Video**  
+[Click here to watch the demo](https://drive.google.com/file/d/1DOnoB7jVo-Amp-6jJ58WN2df5TXjUKw6/view)
+
+
 ## 🧪 Seed Data (Default Credentials)
 
 If using the Mock Service or after fresh Backend Seeding:
@@ -120,5 +125,4 @@ If using the Mock Service or after fresh Backend Seeding:
 ### 4. Reports
 <img width="1627" height="769" alt="image" src="https://github.com/user-attachments/assets/8356227a-cafe-40d3-a840-201fdaea6f79" />
 
-### 5. DEMO VIDEO
-<img width="1627" height="769" alt="image" src="https://drive.google.com/file/d/1DOnoB7jVo-Amp-6jJ58WN2df5TXjUKw6/view" />
+
